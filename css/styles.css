@@ -39,8 +39,8 @@ body.dark {
 header {
     display: flex;
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 2em;
+    right: 2em;
     align-items: center;
     justify-content: right; 
     height: 70px;
